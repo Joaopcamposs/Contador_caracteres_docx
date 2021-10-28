@@ -1,0 +1,102 @@
+Nome do arquivo: FIBO_PV_ GEOGRAFIA-FIS_C1_caderno_impresso.docx
+Qtd Caracteres: 91651
+Word: 92808
+Diferença: 1157 = 1.2%
+
+Nome do arquivo: FIBO_PV_BIO1_C1_CE_Cap1a3_para_arte_sem marcas.docx
+Qtd Caracteres: 41374
+Word: 42231
+Diferença: 857 = 2%
+
+Nome do arquivo: FIBO_PV_BIO1_C1_CE_Cap4a6_para_arte_sem marcas.docx
+Qtd Caracteres: 67066
+Word: 68548
+Diferença: 1482 = 2.2%
+
+Nome do arquivo: FIBO_PV_C1_ESP_CE_CAP 2_sem_marcas.docx
+Qtd Caracteres: 11532
+Word: 11636
+Diferença: 104 = 0.9%
+
+Nome do arquivo: FIBO_PV_C1_ESP_CE_CAP1_sem_marcas.docx
+Qtd Caracteres: 20189
+Word: 20353
+Diferença: 164 = 0,8%
+
+Nome do arquivo: FIBO_PV_C1_FIL&SOC_CE_para a arte.docx
+Qtd Caracteres: 100265
+Word: 100998
+Diferença: 733 = 0.7%
+
+Nome do arquivo: FIBO_PV_C1_GRA_CE_CAP1_para_arte.docx
+Qtd Caracteres: 18236
+Word: 18461
+Diferença: 225 = 1.2%
+
+Nome do arquivo: FIBO_PV_C1_ING_CAP_4_CE_para_arte.docx
+Qtd Caracteres: 30777
+Word: 31263
+Diferença: 486 = 1,5%
+
+Nome do arquivo: FIBO_PV_C1_MAT2_CE_Teditado.docx
+Qtd Caracteres: 101106
+Word: 101062
+Diferença: 44 = 0,04%
+
+Nome do arquivo: FIBO_PV_C1_MAT3_CE_editado_sem marcas.docx
+Qtd Caracteres: 131849
+Word: 127714
+Diferença: 4135 = 3.2%
+
+Nome do arquivo: FIBO_PV_C1_QUI1_CE_Original.docx
+Qtd Caracteres: 146825
+Word: 144794
+Diferença: 2031 = 1.4%
+
+Nome do arquivo: FIBO_PV_C1_RED_CE_CAP1_para_arte.docx
+Qtd Caracteres: 12325
+Word: 11998
+Diferença: 327 = 2.7%
+
+Nome do arquivo: FIBO_PV_C1_RED_CE_CAP2_para_arte.docx
+Qtd Caracteres: 14233
+Word: 14356
+Diferença: 123 = 0.86%
+
+Nome do arquivo: FIBO_PV_FIS-1_C1_CE_cap1a4_T_A_T.docx
+Qtd Caracteres: 53785
+Word: 53744
+Diferença: 41 = 0.08%
+
+Nome do arquivo: FIBO_PV_FIS-1_C1_CE_cap5_T_A_T.docx
+Qtd Caracteres: 15818
+Word: 15942
+Diferença: 124 = 0.78%
+
+Nome do arquivo: FIBO_PV_FIS-1_C1_CE_cap6_T_A_T.docx
+Qtd Caracteres: 40982
+Word: 34672
+Diferença: 6310 = 18.2%
+
+Nome do arquivo: FIBO_PV_GEOH_C1_caderno_impresso.docx
+Qtd Caracteres: 110122
+Word: 106572
+Diferença: 3550 = 3.3%
+
+Nome do arquivo: FIBO_PV_HISBR I_C1_CE_cap.5_SemMarcas.docx
+Qtd Caracteres: 22173
+Word: 22577
+Diferença: 404 = 1.82%
+
+Nome do arquivo: FIBO_PV_INT_C1_CE.docx
+Qtd Caracteres: 140157
+Word: 140204
+Diferença: 47 = 0.03%
+
+Nome do arquivo: FIBO_PV_LIT_C1_CE.docx
+Qtd Caracteres: 123029
+Word: 123947
+Diferença: 918 = 0.75%
+
+========================
+Total de caracteres: 1293494

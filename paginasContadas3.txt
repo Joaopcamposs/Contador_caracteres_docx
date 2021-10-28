@@ -1,5 +1,5 @@
 Nome do arquivo: artigo.docx
-Qtd Caracteres: 27780
+Qtd Caracteres: 29240
 
 Nome do arquivo: caixa_texto.docx
 Qtd Caracteres: 31
@@ -8,13 +8,13 @@ Nome do arquivo: Documentacao.docx
 Qtd Caracteres: 1432
 
 Nome do arquivo: FIBO_HISBR.docx
-Qtd Caracteres: 17656
+Qtd Caracteres: 17698
 
 Nome do arquivo: word.docx
-Qtd Caracteres: 726
+Qtd Caracteres: 718
 
 Nome do arquivo: word2.docx
 Qtd Caracteres: 5
 
 ========================
-Total de caracteres: 47630
+Total de caracteres: 49124

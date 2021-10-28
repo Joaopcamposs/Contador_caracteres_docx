@@ -1,4 +1,9 @@
 .idea/
 __pycache__/
-artigo.docx
-FIBO_HISBR.docx
+Interface/
+Calculadora/
+Teste/
+artigo.*
+FIBO_HISBR.*
+FIBO_PV_FIS-1_C1_CE_cap6_T_A_T.*
+FIBO_PV_FIS-1_C1_CE_cap6_T_A_T_2.*
